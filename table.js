@@ -14,7 +14,8 @@ const CATEGORIES = {
   ml: "Machine Learning",
   pl: "Programming Languages",
   sec: "Security",
-  dist: "Distributed Systems"
+  dist: "Distributed Systems",
+  cs: "Theoretical CS"
 };
 
 /* We need the table element in sortTable */

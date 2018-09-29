@@ -285,5 +285,10 @@ const papers = [
     title: "DeepFace: Closing the Gap to Human-Level Performance in Face Verification",
     read: null,
     pdf: "deepface.pdf"
+  },
+  {
+    category: "cs",
+    title: "On Computable Numbers, with an Application to the Entscheidungsproblem",
+    read: null
   }
 ];
