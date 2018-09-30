@@ -177,7 +177,7 @@ const papers = [
   {
     category: "ml",
     title: "Deep Residual Learning for Image Recognition",
-    read: null,
+    read: "30/09/2018",
     pdf: "deepres.pdf"
   },
   {
