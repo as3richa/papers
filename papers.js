@@ -2,6 +2,12 @@
 
 const papers = [
   {
+    category: "cs",
+    title: "A Tutorial Introduction to the Lambda Calculus",
+    read: null,
+    pdf: "lambda.pdf"
+  },
+  {
     category: "ml",
     title: "Imagenet Classifiation with Deep Convolutional Neural Networks",
     read: "29/09/2018",
