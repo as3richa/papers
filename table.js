@@ -58,7 +58,7 @@ function createTable() {
     /* Helper to create a td with a specified CSS class and text */
   function cell(klass, content) {
     const elem = document.createElement("td");
-    elem.class = klass;
+    elem.className = klass;
 
     if(typeof(content) === "string") {
       content = document.createTextNode(content);
