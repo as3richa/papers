@@ -218,11 +218,6 @@ const papers = [
   },
   {
     category: "ml",
-    title: "You Only Look Once: Unified, Real-Time Object Detection",
-    read: null
-  },
-  {
-    category: "ml",
     title: "An Efficient Bandit Algorithm for Realtime Multivariate Optimization",
     read: null
   },
