@@ -4,7 +4,7 @@ const papers = [
   {
     category: "cs",
     title: "A Tutorial Introduction to the Lambda Calculus",
-    read: null,
+    read: "02/10/2018",
     pdf: "lambda.pdf"
   },
   {
