@@ -191,7 +191,19 @@ const sorts = [
   },
   {
     description: "Alphabetically by Title",
-    pred: (x, y) => (x.title < y.title)
+    pred: (x, y) => {
+      const pre = (v) => {
+        const vw = v.toLowerCase().split(" ");
+
+        if(vw[0] === "a" || vw[0] === "the" || vw[0] == "an") {
+          vw.shift();
+        }
+
+        return vw.join(" ");
+      }
+
+      return (pre(x.title) < pre(y.title));
+    }
   },
   {
     description: "Alphabetically by Category",

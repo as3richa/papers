@@ -291,5 +291,71 @@ const papers = [
     category: "cs",
     title: "On Computable Numbers, with an Application to the Entscheidungsproblem",
     read: null
+  },
+  {
+    category: "ml",
+    title: "Restricted Boltzmann Machines for Collaborative Filtering",
+    read: null,
+    pdf: "rbmcf.pdf"
+  },
+  {
+    category: "ml",
+    title: "A Tutorial on Principal Component Analysis",
+    read: null,
+    pdf: "pca.pdf"
+  },
+  {
+    category: "ml",
+    title: "Mastering Chess and Shogi by Self-Play with General Reinforcement Learning Algorithm",
+    read: "05/10/2018",
+    pdf: "azero.pdf"
+  },
+  {
+    category: "ml",
+    title: "Matrix Factorization Model in Collaborative Filtering Algorithms: A Survey",
+    read: null,
+    pdf: "mfmcf.pdf"
+  },
+  {
+    category: "ml",
+    title: "Mastering the Game of Go without Human Knowledge",
+    read: null,
+    pdf: "agz.pdf",
+  },
+  {
+    category: "ml",
+    title: "Bandit based Monte-Carlo Planning",
+    read: null,
+    pdf: "bbmcp.pdf"
+  },
+  {
+    category: "pl",
+    title: "Data Structure-Aware Heap Partitioning",
+    read: null,
+    pdf: "dsahp.pdf"
+  },
+  {
+    category: "ml",
+    title: "The Grand Challenge of Computer Go: Monte Carlo Tree Search and Extensions",
+    read: null,
+    pdf: "gccg.pdf"
+  },
+  {
+    category: "ml",
+    title: "Identifying and attacking the saddle point problem in high-dimensional non-convex optimization",
+    read: null,
+    pdf: "iassp.pdf"
+  },
+  {
+    category: "ml",
+    title: "A Survey of Monte Carlo Tree Search Methods",
+    read: null,
+    pdf: "mcts.pdf"
+  },
+  {
+    category: "ml",
+    title: "Structured Parallel Programming for Monte Carlo Tree Search",
+    read: null,
+    pdf: "sppmcts.pdf"
   }
 ];
