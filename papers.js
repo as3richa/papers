@@ -386,7 +386,7 @@ const papers = [
   {
     category: "sec",
     title: "Reflections on Trusting Trust",
-    read: null,
+    read: "11/10/2018",
     pdf: "rott.pdf"
   }
 ];
