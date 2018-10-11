@@ -47,7 +47,8 @@ const papers = [
   {
     category: "pl",
     title: "Non-Recursive Make Considered Harmful",
-    read: "04/05/2018"
+    read: "04/05/2018",
+    pdf: "nrmch.pdf"
   },
   {
     category: "dist",
@@ -183,7 +184,7 @@ const papers = [
   {
     category: "ml",
     title: "Going Deeper with Convolutions",
-    read: null,
+    read: "11/10/2018",
     pdf: "deeper.pdf"
   },
   {
@@ -319,7 +320,7 @@ const papers = [
   {
     category: "ml",
     title: "Mastering the Game of Go without Human Knowledge",
-    read: null,
+    read: "07/10/2018",
     pdf: "agz.pdf",
   },
   {
@@ -357,5 +358,35 @@ const papers = [
     title: "Structured Parallel Programming for Monte Carlo Tree Search",
     read: null,
     pdf: "sppmcts.pdf"
+  },
+  {
+    category: "ml",
+    title: "Taking the Human Out of the Loop: A Review of Bayesian Optimization",
+    read: null,
+    pdf: "rbo.pdf"
+  },
+  {
+    category: "sec",
+    title: "Breaking the x86 ISA",
+    read: null,
+    pdf: "bx86.pdf"
+  },
+  {
+    category: "dist",
+    title: "In Search of an Understandable Consensus Algorithm",
+    read: "01/01/2018",
+    pdf: "raft.pdf"
+  },
+  {
+    category: "ml",
+    title: "Provable Bounds for Learning Some Deep Representations",
+    read: null,
+    pdf: "pblsdr.pdf"
+  },
+  {
+    category: "sec",
+    title: "Reflections on Trusting Trust",
+    read: null,
+    pdf: "rott.pdf"
   }
 ];
