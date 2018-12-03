@@ -202,7 +202,7 @@ const papers = [
   {
     category: "ml",
     title: "OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks",
-    read: null,
+    read: "15/10/2018",
     pdf: "overfeat.pdf"
   },
   {
@@ -388,5 +388,41 @@ const papers = [
     title: "Reflections on Trusting Trust",
     read: "11/10/2018",
     pdf: "rott.pdf"
+  },
+  {
+    category: "cs",
+    title: "Algorithms for Constraint-Satisfaction Problems: A Survey",
+    read: null,
+    pdf: "acsps.pdf"
+  },
+  {
+    category: "cs",
+    title: "Algorithms for Constraint Satisfaction Problem",
+    read: null,
+    pdf: "algcsp.pdf"
+  },
+  {
+    category: "cs",
+    title: "The Alldifferent Constraint: A Survey",
+    read: null,
+    pdf: "alldiff.pdf"
+  },
+  {
+    category: "cs",
+    title: "What Every Programmer Should Know About Memory",
+    read: null,
+    pdf: "memory.pdf"
+  },
+  {
+    category: "cs",
+    title: "Futexes are Tricky",
+    read: "03/12/2018",
+    pdf: "fat.pdf"
+  },
+  {
+    category: "cs",
+    title: "Wait-Free Synchronization",
+    read: null,
+    pdf: "wfs.pdf"
   }
 ];
