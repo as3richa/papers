@@ -424,5 +424,11 @@ const papers = [
     title: "Wait-Free Synchronization",
     read: null,
     pdf: "wfs.pdf"
+  },
+  {
+    category: "cs",
+    title: "Fuss, Futexes and Furwocks: Fast Userlevel Locking in Linux",
+    read: null,
+    pdf: "fff.pdf"
   }
 ];
